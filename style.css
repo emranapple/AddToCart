@@ -61,6 +61,7 @@ ul li {
     flex-grow: 1;
     text-align: center;
     color: #735751;
+    border: 1px soild #f6f5f4;
 
 }
 
